@@ -4,7 +4,7 @@ body, html{
 
 	overflow-x:hidden;
 	font-family: 'Montserrat', sans-serif;
-	background-color: rgba(0, 126, 121, .6); 
+	background-color: rgba(0, 126, 121, .5); 
 	/*overflow-y: auto;*/
 	min-width: 900px;
 }
