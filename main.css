@@ -1,0 +1,94 @@
+
+
+body, html{
+
+	overflow-x:hidden;
+	font-family: 'Montserrat', sans-serif;
+	background-color: rgba(0, 126, 121, .6); 
+	/*overflow-y: auto;*/
+	min-width: 900px;
+}
+
+
+
+.division{
+	/*width: 100%;*/
+	margin: auto;
+	height: 100vh;
+	padding-top: 10px;
+	/*border: 1px solid black;*/
+
+}
+
+#intro{
+	background: url(nyc2.jpg) no-repeat 50% 30% fixed; 
+  background-size: cover;
+
+
+}
+
+
+.inbox p{
+		text-align: center;
+			/*margin-top: 80px;*/
+	width: 400px;
+	font-size: 150%;
+	padding: 20px 0 20px 0;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: 'Montserrat', sans-serif;
+	background-color: rgba(0, 126, 121, .6); 
+	color: white;
+}
+
+#hi{
+	margin-top: 80px;
+}
+
+
+.divider{
+	height: 50px;
+	max-width: none;
+	width: 100%;
+	background-color: RGBA(255, 255, 255, .5);
+	bottom: 0;
+}
+
+
+
+
+#p1, #p2, #p3, #p4{
+	height: 400px;
+	width: 700px;
+	border: 3px solid #003E45
+}
+
+.projects{
+	padding-top: 120px;
+	text-align: center;
+	/*background-color: rgba(0, 126, 121, .6); */
+	padding-bottom: 100px;
+    max-width: 700px;
+    margin: 0px auto;
+}
+
+#project4{
+	padding-bottom: 120px;
+}
+
+.description{
+	display: block;
+	padding-top: 20px;
+	color: white;
+	font-family: 'Neuton', serif;
+	font-size: 20px;
+	/*width: 700px;*/
+	text-align: left;
+
+	
+
+
+}
+
+
+
